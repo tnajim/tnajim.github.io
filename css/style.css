@@ -63,6 +63,18 @@ li {
   list-style: none;
 }
 
+.features-list {
+  font-size: 1.8rem;
+  line-height: 1.7;
+  color: grey;
+  margin-bottom: 2rem;
+  margin-left: 2rem;
+}
+
+.features-list li {
+  list-style-type: circle;
+}
+
 input:focus,
 button:focus,
 a:focus,
