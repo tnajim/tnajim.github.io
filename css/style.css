@@ -1030,6 +1030,10 @@ textarea {
   -webkit-animation: wheel 1.3s infinite;
 }
 
+.margin-right1 {
+  margin-right: 14px;
+}
+
 @keyframes wheel {
   to {
     opacity: 0;
